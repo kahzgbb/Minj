@@ -1,1 +1,1 @@
-![Logo](/image)
+![Logo](/minjlogo.png)
