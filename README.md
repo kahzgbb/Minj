@@ -18,4 +18,4 @@ E-mail: maczxsoft@gmail.com
 <br>
 <br>
 <br>
-![]([https://github.com/kahzgbb/Minj/raw/refs/heads/main/minjlogo](https://github.com/kahzgbb/Minj/blob/main/minjlogo.png))
+![](https://github.com/kahzgbb/Minj/raw/refs/heads/main/minjlogo](https://github.com/kahzgbb/Minj/blob/main/minjlogo.png)](https://github.com/kahzgbb/Minj/blob/main/minjlogo.png?raw=true)
