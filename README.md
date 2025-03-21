@@ -4,7 +4,7 @@ Program created to inject strings into processes or remove them, make a list of 
 
 ## Menu
 
-![App Screenshot](https://github.com/kahzgbb/Minj/blob/main/print.png?raw=true)
+![](https://github.com/kahzgbb/Minj/blob/main/print.png?raw=true)
 
 #
 
@@ -18,4 +18,4 @@ E-mail: maczxsoft@gmail.com
 <br>
 <br>
 <br>
-![](https://github.com/kahzgbb/Minj/raw/refs/heads/main/minjlogo](https://github.com/kahzgbb/Minj/blob/main/minjlogo.png)](https://github.com/kahzgbb/Minj/blob/main/minjlogo.png?raw=true)
+![](https://github.com/kahzgbb/Minj/blob/main/minjlogo.png?raw=true)
